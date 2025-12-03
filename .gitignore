@@ -1,0 +1,39 @@
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.rsuser
+*.suo
+*.cache
+*.log
+
+# IDE settings
+.vs/
+
+# Publish output
+publish/
+out/
+
+# Environment-specific appsettings files
+appsettings.Development.json
+appsettings.Local.json
+
+# Sensitive settings (optional extra)
+secrets.json
+
+# Rider / JetBrains
+.idea/
+
+# macOS / Linux
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# docker ignore files
+docker-compose.override.yml
